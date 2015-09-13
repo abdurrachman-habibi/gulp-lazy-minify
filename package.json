@@ -1,0 +1,33 @@
+{
+  "name": "gulp-lazy-minify",
+  "version": "1.0.0",
+  "description": "This plugin is used to minify JS/CSS only when it's needed.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://abdurrachman-habibi@github.com/abdurrachman-habibi/gulp-lazy-minify.git"
+  },
+  "keywords": [
+    "gulpplugin"
+  ],
+  "author": "Habibi <guilvee@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/abdurrachman-habibi/gulp-lazy-minify/issues"
+  },
+  "homepage": "https://github.com/abdurrachman-habibi/gulp-lazy-minify#readme",
+  "dependencies": {
+    "gulp-file": "^0.2.0",
+    "gulp-minify-css": "^1.2.1",
+    "gulp-uglify": "^1.4.1",
+    "gulp-util": "^3.0.6",
+    "through2": "^2.0.0"
+  },
+  "devDependencies": {
+    "del": "^2.0.2",
+    "gulp": "^3.9.0"
+  }
+}
