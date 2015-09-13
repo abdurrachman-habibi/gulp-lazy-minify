@@ -1,7 +1,7 @@
 # gulp-lazy-minify
 This plugin is used to minify JS/CSS only when it's needed.
 
-There are currently 2 conditions where minifying/uglifying is not needed:
+There are currently 2 conditions where minifying is not needed:
 
 1. The source file is already minified
 2. There exists a minified version of the source file in the same directory
