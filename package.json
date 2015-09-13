@@ -1,6 +1,6 @@
 {
   "name": "gulp-lazy-minify",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "This plugin is used to minify JS/CSS only when it's needed.",
   "main": "index.js",
   "scripts": {
